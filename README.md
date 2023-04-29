@@ -2,5 +2,5 @@
 
 created when I was at JetBrains Academy
 
-![blockchain](https://user-images.githubusercontent.com/107635322/235320266-81536db4-b72f-407f-9134-56443be47f42.gif)
+![final](https://user-images.githubusercontent.com/107635322/235320514-fe154b7a-1522-40a4-8d6f-010cf22701af.gif)
 
